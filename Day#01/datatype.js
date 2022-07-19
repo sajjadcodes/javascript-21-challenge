@@ -14,3 +14,9 @@ console.log(3 + 7);
 
 typeof(3 + 7);
 
+
+console.log(true);
+console.log(false);
+
+typeof(true);
+
